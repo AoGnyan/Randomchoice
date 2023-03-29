@@ -5,7 +5,9 @@
 }
 
 body {
-  background-color: #2b88f0;
+  background-color: #13375f;
+  background-image: url(text.jpg);
+  filter: brightness(70%);
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
