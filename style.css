@@ -6,8 +6,7 @@
 
 body {
   background-color: #13375f;
-  background-image: url(text.jpg);
-  filter: brightness(70%);
+  background-image: url(texture.png);
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
